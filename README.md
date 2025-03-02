@@ -1,5 +1,6 @@
 # Sentiment-Analysis-on-Amazon-Review
 OBJECTIVE 
+
 The objective of this project is to develop a robust model for mutomated sentiment classification of Amazon reviews into positive or negative categories.
 
 ABSTRACT
